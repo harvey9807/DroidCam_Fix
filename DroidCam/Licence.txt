@@ -1,0 +1,6 @@
+DISCLAIMER AND TERMS
+
+This program, all related components and written material, is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY OR LIABILITY; without even the implied warranty of merchantability or fitness for a particular purpose. The software is provided "AS IS", and the entire risk as to the quality and performance of the program is with you. Should the program prove defective, and/or should any damages arise (including, but not limited to, loss of use or data), the developer(s), DEV47 APPS, or anyone else, shall not be held responsible.
+USE AT YOUR OWN RISK.
+
+You may freely redistribute any part of the software included with the installation, provided this disclaimer is retained with all such distributions.
